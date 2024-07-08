@@ -1,0 +1,20 @@
+
+
+.titulo {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(46, 4, 85);
+}
+
+.container{
+    width: 1000px;
+    height: 70px;
+    background-color: rgb(221, 198, 241);
+}
+
+.container-principal{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content:center;
+}
